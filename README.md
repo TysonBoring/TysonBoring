@@ -22,5 +22,5 @@ If you share my enthusiasm for web development, Python's magic, and the boundles
 GitHub: [github.com/tysonboring](https://github.com/tysonboring)
 Twitter: [https://twitter.com/Tyson_Boring](https://twitter.com/Tyson_Boring)
 
-💌 Together, let's transform code into something extraordinary. Join me on my coding journey that intertwines with the adventure of being a dad! 🚀 condense this enough to fit in a github bio
+💌 Together, let's transform code into something extraordinary. Join me on my coding journey that intertwines with the adventure of being a dad! 🚀 
 
